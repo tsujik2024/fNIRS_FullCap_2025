@@ -17,7 +17,7 @@ This package processes `.txt` fNIRS files exported from Octamon systems, using a
 - **Visualizations and statistics** export for further analysis and interpretation
 
 ⚠️ **Note:** This pipeline is highly tailored to our lab's specific walking tasks and file naming conventions.  
-If you're adapting this for your own dataset, you may need to modify logic within the `fnirs_PFC_2025/processing/` module — particularly functions for file selection, event parsing, and batch processing.
+If you're adapting this for your own dataset, you may need to modify logic within the `fnirs_FullCap_2025/processing/` module — particularly functions for file selection, event parsing, and batch processing.
 
 ---
 
